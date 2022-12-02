@@ -2,9 +2,28 @@
 <html>
   <head>
     <title>Back End Assessment</title>
+    <link rel="stylesheet" href="./styles.css">
   </head>
   <body class="container">
     <button id="complimentButton">Get a compliment</button>
+    <button id="fortuneButton">Get a fortune</button>
+    <header>
+      <h1>Useful Books Bank</h1>
+    </header>
+    <article>
+      <form>
+        <input type="text" id="title" placeholder="Book title">
+        <input type="text" id="author" placeholder="Book author">
+        <input type="text" id="publishedYear" placeholder="Publication year">
+        <input type="number" id="price" placeholder="Price">
+        <input type="text" id="img" placeholder="Paste an image URL">
+        <button type="submit">Add book</button>
+      </form>
+    </article>
+    <main id="book-container">
+
+    </main>
+
 
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
     <script src="main.js"></script>

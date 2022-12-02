@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Eloquent JavaScript",
+    "author": "Marjin Haverbeke",
+    "publishedYear": 2018,
+    "price": 20,
+    "img": "https://m.media-amazon.com/images/I/51InjRPaF7L._SX377_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "publishedYear": 2015,
+    "price": 35,
+    "img": "https://m.media-amazon.com/images/I/41oYsXjLvZL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "author": "Robert C. Martin",
+    "publishedYear": 2008,
+    "price": 35,
+    "img": "https://m.media-amazon.com/images/I/41xShlnTZTL._SX376_BO1,204,203,200_.jpg"
+  }
+]
